@@ -1,0 +1,148 @@
+Bug Buzz,2,Bug,90,3.70,2.00
+Megahorn,1,Bug,90,2.20,1.70
+Signal Beam,2,Bug,75,2.90,1.80
+Silver Wind,3,Bug,70,3.70,1.70
+X-Scissor,3,Bug,45,1.60,1.20
+,,,,,
+Crunch,3,Dark,70,3.20,1.30
+Dark Pulse,2,Dark,80,3.00,1.40
+Foul Play,2,Dark,70,2.00,1.70
+Night Slash,3,Dark,50,2.20,1.30
+,,,,,
+Draco Meteor,1,Dragon,150,3.60,3.00
+Dragon Claw,3,Dragon,50,1.70,1.10
+Dragon Pulse,2,Dragon,90,3.60,2.15
+Outrage,2,Dragon,110,3.90,2.50
+Twister,3,Dragon,45,2.80,0.85
+,,,,,
+Discharge,3,Electric,65,2.50,1.70
+Parabolic Charge,2,Electric,25,2.80,1.20
+Thunder,1,Electric,100,2.40,1.20
+Thunder Punch,3,Electric,45,1.80,1.70
+Thunderbolt,2,Electric,80,2.50,1.70
+Wild Charge,2,Electric,90,2.60,1.70
+Zap Cannon,1,Electric,140,3.70,3.00
+,,,,,
+Dazzling Gleam,2,Fairy,100,3.50,2.10
+Disarming Voice,3,Fairy,70,3.90,3.20
+Draining Kiss,2,Fairy,60,2.60,1.00
+Moonblast,1,Fairy,130,3.90,2.20
+Play Rough,2,Fairy,90,2.90,1.30
+,,,,,
+Brick Break,3,Fight,40,1.60,0.80
+Close Combat,1,Fight,100,2.30,1.00
+Cross Chop,2,Fight,50,1.50,0.80
+Dynamic Punch,2,Fight,90,2.70,1.20
+Focus Blast,1,Fight,140,3.50,3.00
+Low Sweep,3,Fight,40,1.90,1.30
+Submission,2,Fight,60,2.20,1.80
+,,,,,
+Blast Burn,2,Fire,,,
+Fire Blast,1,Fire,,,
+Fire Punch,3,Fire,,,
+Flame Burst,2,Fire,,,
+Flame Charge,3,Fire,,,
+Flame Wheel,2,Fire,,,
+Flamethrower,2,Fire,,,
+Heat Wave,1,Fire,,,
+Overheat,1,Fire,,,
+Weather Ball Fire,3,Fire,,,
+,,,,,
+Aerial Ace,3,Flying,,,
+Air Cutter,2,Flying,,,
+Brave Bird,1,Flying,,,
+Drill Peck,3,Flying,,,
+Hurricane,1,Flying,,,
+Sky Attack,2,Flying,,,
+,,,,,
+Night Shade,2,Ghost,,,
+Ominous Wind,3,Ghost,,,
+Shadow Ball,2,Ghost,,,
+Shadow Punch,3,Ghost,,,
+Shadow Sneak,3,Ghost,,,
+,,,,,
+Energy Ball,2,Grass,,,
+Frenzy Plant,2,Grass,,,
+Grass Knot,2,Grass,,,
+Leaf Blade,3,Grass,,,
+Mega Drain,2,Grass,,,
+Petal Blizzard,1,Grass,,,
+Power Whip,2,Grass,,,
+Seed Bomb,3,Grass,,,
+Solar Beam,1,Grass,,,
+,,,,,
+Precipice Blades,1,Ground,,,
+Drill Run,2,Ground,,,
+Dig,2,Ground,,,
+Earthquake,1,Ground,,,
+Mud Bomb,3,Ground,,,
+Bulldoze,2,Ground,,,
+Sand Tomb,2,Ground,,,
+Bone Club,3,Ground,,,
+,,,,,
+Weather Ball Ice,3,Ice,,,
+Avalanche,2,Ice,,,
+Blizzard,1,Ice,,,
+Ice Beam,2,Ice,,,
+Ice Punch,3,Ice,,,
+Aurora Beam,2,Ice,,,
+Icy Wind,3,Ice,,,
+,,,,,
+Hyper Beam,1,Normal,,,
+Last Resort,2,Normal,,,
+Hyper Fang,2,Normal,,,
+Body Slam,3,Normal,,,
+Rest,3,Normal,,,
+Wrap,3,Normal,,,
+Stomp,3,Normal,,,
+Horn Attack,3,Normal,,,
+Swift,2,Normal,,,
+Vice Grip,3,Normal,,,
+Struggle,3,Normal,,,
+Wrap (Green/Pink),3,Normal,,,
+,,,,,
+Sludge,3,Poison,,,
+Sludge Wave,1,Poison,,,
+Sludge Bomb,2,Poison,,,
+Gunk Shot,1,Poison,,,
+Cross Poison,3,Poison,,,
+Poison Fang,3,Poison,,,
+,,,,,
+Future Sight,1,Psychic,,,
+Psyshock,3,Psychic,,,
+Psystrike,2,Psychic,,,
+Psychic,1,Psychic,,,
+Psybeam,2,Psychic,,,
+Mirror Coat,2,Psychic,,,
+Heart Stamp,3,Psychic,,,
+Psycho Boost,2,Psychic,,,
+,,,,,
+Weather Ball Rock,3,Rock,,,
+Rock Slide,2,Rock,,,
+Power Gem,2,Rock,,,
+Stone Edge,1,Rock,,,
+Ancient Power,3,Rock,,,
+Rock Blast,3,Rock,,,
+Rock Tomb,2,Rock,,,
+,,,,,
+Meteor Mash,2,Steel,,,
+Doom Desire,2,Steel,,,
+Magnet Bomb,3,Steel,,,
+Heavy Slam,2,Steel,,,
+Gyro Ball,2,Steel,,,
+Iron Head,2,Steel,,,
+Flash Cannon,1,Steel,,,
+,,,,,
+Origin Pulse,1,Water,,,
+Hydro Cannon,1,Water,,,
+Weather Ball Water,3,Water,,,
+Hydro Pump,1,Water,,,
+Surf,2,Water,,,
+Aqua Tail,3,Water,,,
+Scald,2,Water,,,
+Bubble Beam,3,Water,,,
+Brine,2,Water,,,
+Water Pulse,2,Water,,,
+Aqua Jet,3,Water,,,
+Hydro Pump (Blastoise),1,Water,,,
+Scald (Blastoise),1,Water,,,
